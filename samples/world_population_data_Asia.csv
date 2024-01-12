@@ -1,0 +1,51 @@
+Rank,CCA3,Country,Continent,Growth_Rate,World_Percentage
+1,IND,India,Asia,0.81%,17.85%
+2,CHN,China,Asia,-0.02%,17.81%
+4,IDN,Indonesia,Asia,0.74%,3.47%
+5,PAK,Pakistan,Asia,1.98%,3.00%
+8,BGD,Bangladesh,Asia,1.03%,2.16%
+12,JPN,Japan,Asia,-0.53%,1.54%
+13,PHL,Philippines,Asia,1.54%,1.47%
+16,VNM,Vietnam,Asia,0.68%,1.23%
+17,IRN,Iran,Asia,0.70%,1.11%
+18,TUR,Turkey,Asia,0.56%,1.07%
+20,THA,Thailand,Asia,0.15%,0.90%
+27,MMR,Myanmar,Asia,0.74%,0.68%
+29,KOR,South Korea,Asia,-0.06%,0.65%
+35,IRQ,Iraq,Asia,2.27%,0.57%
+36,AFG,Afghanistan,Asia,2.70%,0.53%
+40,SAU,Saudi Arabia,Asia,1.48%,0.46%
+43,UZB,Uzbekistan,Asia,1.55%,0.44%
+44,YEM,Yemen,Asia,2.24%,0.43%
+46,MYS,Malaysia,Asia,1.09%,0.43%
+49,NPL,Nepal,Asia,1.14%,0.39%
+56,PRK,North Korea,Asia,0.35%,0.33%
+57,TWN,Taiwan,Asia,0.13%,0.30%
+60,SYR,Syria,Asia,4.98%,0.29%
+61,LKA,Sri Lanka,Asia,0.28%,0.27%
+66,KAZ,Kazakhstan,Asia,1.08%,0.24%
+73,KHM,Cambodia,Asia,1.06%,0.21%
+83,JOR,Jordan,Asia,0.45%,0.14%
+90,AZE,Azerbaijan,Asia,0.53%,0.13%
+95,TJK,Tajikistan,Asia,1.92%,0.13%
+96,ARE,United Arab Emirates,Asia,0.80%,0.12%
+98,ISR,Israel,Asia,1.51%,0.11%
+103,LAO,Laos,Asia,1.39%,0.10%
+104,HKG,Hong Kong,Asia,0.04%,0.09%
+109,KGZ,Kyrgyzstan,Asia,1.58%,0.08%
+111,TKM,Turkmenistan,Asia,1.33%,0.08%
+114,SGP,Singapore,Asia,0.65%,0.08%
+121,PSE,Palestine,Asia,2.31%,0.07%
+122,LBN,Lebanon,Asia,-2.47%,0.07%
+127,OMN,Oman,Asia,1.49%,0.06%
+129,KWT,Kuwait,Asia,0.97%,0.05%
+132,GEO,Georgia,Asia,-0.43%,0.05%
+133,MNG,Mongolia,Asia,1.44%,0.04%
+140,ARM,Armenia,Asia,-0.09%,0.03%
+143,QAT,Qatar,Asia,0.79%,0.03%
+154,BHR,Bahrain,Asia,0.90%,0.02%
+155,TLS,Timor-Leste,Asia,1.44%,0.02%
+165,BTN,Bhutan,Asia,0.64%,0.01%
+167,MAC,Macau,Asia,1.29%,0.01%
+174,MDV,Maldives,Asia,-0.53%,0.01%
+175,BRN,Brunei,Asia,0.78%,0.01%

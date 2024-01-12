@@ -1,0 +1,235 @@
+rank,cca3,country,continent,growth_rate,world_percentage
+1,IND,India,Asia,0.81%,17.85%
+2,CHN,China,Asia,-0.02%,17.81%
+3,USA,United States,North America,0.50%,4.25%
+4,IDN,Indonesia,Asia,0.74%,3.47%
+5,PAK,Pakistan,Asia,1.98%,3.00%
+6,NGA,Nigeria,Africa,2.41%,2.80%
+7,BRA,Brazil,South America,0.52%,2.70%
+8,BGD,Bangladesh,Asia,1.03%,2.16%
+9,RUS,Russia,Europe,-0.19%,1.80%
+10,MEX,Mexico,North America,0.75%,1.60%
+11,ETH,Ethiopia,Africa,2.55%,1.58%
+12,JPN,Japan,Asia,-0.53%,1.54%
+13,PHL,Philippines,Asia,1.54%,1.47%
+14,EGY,Egypt,Africa,1.56%,1.41%
+15,COD,DR Congo,Africa,3.29%,1.28%
+16,VNM,Vietnam,Asia,0.68%,1.23%
+17,IRN,Iran,Asia,0.70%,1.11%
+18,TUR,Turkey,Asia,0.56%,1.07%
+19,DEU,Germany,Europe,-0.09%,1.04%
+20,THA,Thailand,Asia,0.15%,0.90%
+21,GBR,United Kingdom,Europe,0.34%,0.85%
+22,TZA,Tanzania,Africa,2.96%,0.84%
+23,FRA,France,Europe,0.20%,0.81%
+24,ZAF,South Africa,Africa,0.87%,0.75%
+25,ITA,Italy,Europe,-0.28%,0.74%
+26,KEN,Kenya,Africa,1.99%,0.69%
+27,MMR,Myanmar,Asia,0.74%,0.68%
+28,COL,Colombia,South America,0.41%,0.65%
+29,KOR,South Korea,Asia,-0.06%,0.65%
+30,UGA,Uganda,Africa,2.82%,0.61%
+31,SDN,Sudan,Africa,2.63%,0.60%
+32,ESP,Spain,Europe,-0.08%,0.59%
+33,ARG,Argentina,South America,0.58%,0.57%
+34,DZA,Algeria,Africa,1.57%,0.57%
+35,IRQ,Iraq,Asia,2.27%,0.57%
+36,AFG,Afghanistan,Asia,2.70%,0.53%
+37,POL,Poland,Europe,2.93%,0.51%
+38,CAN,Canada,North America,0.85%,0.48%
+39,MAR,Morocco,Africa,1.02%,0.47%
+40,SAU,Saudi Arabia,Asia,1.48%,0.46%
+41,UKR,Ukraine,Europe,-7.45%,0.46%
+42,AGO,Angola,Africa,3.08%,0.46%
+43,UZB,Uzbekistan,Asia,1.55%,0.44%
+44,YEM,Yemen,Asia,2.24%,0.43%
+45,PER,Peru,South America,0.89%,0.43%
+46,MYS,Malaysia,Asia,1.09%,0.43%
+47,GHA,Ghana,Africa,1.93%,0.43%
+48,MOZ,Mozambique,Africa,2.81%,0.42%
+49,NPL,Nepal,Asia,1.14%,0.39%
+50,MDG,Madagascar,Africa,2.41%,0.38%
+51,CIV,Ivory Coast,Africa,2.53%,0.36%
+52,VEN,Venezuela,South America,1.90%,0.36%
+53,CMR,Cameroon,Africa,2.63%,0.36%
+54,NER,Niger,Africa,3.80%,0.34%
+55,AUS,Australia,Oceania,1.00%,0.33%
+56,PRK,North Korea,Asia,0.35%,0.33%
+57,TWN,Taiwan,Asia,0.13%,0.30%
+58,MLI,Mali,Africa,3.10%,0.29%
+59,BFA,Burkina Faso,Africa,2.55%,0.29%
+60,SYR,Syria,Asia,4.98%,0.29%
+61,LKA,Sri Lanka,Asia,0.28%,0.27%
+62,MWI,Malawi,Africa,2.58%,0.26%
+63,ZMB,Zambia,Africa,2.76%,0.26%
+64,ROU,Romania,Europe,1.19%,0.25%
+65,CHL,Chile,South America,0.13%,0.25%
+66,KAZ,Kazakhstan,Asia,1.08%,0.24%
+67,TCD,Chad,Africa,3.13%,0.23%
+68,ECU,Ecuador,South America,1.05%,0.23%
+69,SOM,Somalia,Africa,3.10%,0.23%
+70,GTM,Guatemala,North America,1.39%,0.23%
+71,SEN,Senegal,Africa,2.58%,0.22%
+72,NLD,Netherlands,Europe,0.31%,0.22%
+73,KHM,Cambodia,Asia,1.06%,0.21%
+74,ZWE,Zimbabwe,Africa,2.11%,0.21%
+75,GIN,Guinea,Africa,2.39%,0.18%
+76,RWA,Rwanda,Africa,2.31%,0.18%
+77,BEN,Benin,Africa,2.70%,0.17%
+78,BDI,Burundi,Africa,2.71%,0.17%
+79,TUN,Tunisia,Africa,0.83%,0.16%
+80,BOL,Bolivia,South America,1.35%,0.15%
+81,HTI,Haiti,North America,1.21%,0.15%
+82,BEL,Belgium,Europe,0.26%,0.15%
+83,JOR,Jordan,Asia,0.45%,0.14%
+84,DOM,Dominican Republic,North America,0.93%,0.14%
+85,CUB,Cuba,North America,-0.16%,0.14%
+86,SSD,South Sudan,Africa,1.61%,0.14%
+87,SWE,Sweden,Europe,0.59%,0.13%
+88,HND,Honduras,North America,1.54%,0.13%
+89,CZE,Czech Republic,Europe,0.01%,0.13%
+90,AZE,Azerbaijan,Asia,0.53%,0.13%
+91,GRC,Greece,Europe,-0.42%,0.13%
+92,PNG,Papua New Guinea,Oceania,1.85%,0.13%
+93,PRT,Portugal,Europe,-0.23%,0.13%
+94,HUN,Hungary,Europe,1.90%,0.13%
+95,TJK,Tajikistan,Asia,1.92%,0.13%
+96,ARE,United Arab Emirates,Asia,0.80%,0.12%
+97,BLR,Belarus,Europe,-0.39%,0.12%
+98,ISR,Israel,Asia,1.51%,0.11%
+99,TGO,Togo,Africa,2.32%,0.11%
+100,AUT,Austria,Europe,0.22%,0.11%
+101,CHE,Switzerland,Europe,0.64%,0.11%
+102,SLE,Sierra Leone,Africa,2.15%,0.11%
+103,LAO,Laos,Asia,1.39%,0.10%
+104,HKG,Hong Kong,Asia,0.04%,0.09%
+105,SRB,Serbia,Europe,-1.00%,0.09%
+106,NIC,Nicaragua,North America,1.41%,0.09%
+107,LBY,Libya,Africa,1.12%,0.09%
+108,PRY,Paraguay,South America,1.19%,0.09%
+109,KGZ,Kyrgyzstan,Asia,1.58%,0.08%
+110,BGR,Bulgaria,Europe,-1.39%,0.08%
+111,TKM,Turkmenistan,Asia,1.33%,0.08%
+112,SLV,El Salvador,North America,0.45%,0.08%
+113,COG,Republic of the Congo,Africa,2.29%,0.08%
+114,SGP,Singapore,Asia,0.65%,0.08%
+115,DNK,Denmark,Europe,0.49%,0.07%
+116,SVK,Slovakia,Europe,2.69%,0.07%
+117,CAF,Central African Republic,Africa,2.92%,0.07%
+118,FIN,Finland,Europe,0.09%,0.07%
+119,NOR,Norway,Europe,0.74%,0.07%
+120,LBR,Liberia,Africa,2.18%,0.07%
+121,PSE,Palestine,Asia,2.31%,0.07%
+122,LBN,Lebanon,Asia,-2.47%,0.07%
+123,NZL,New Zealand,Oceania,0.83%,0.07%
+124,CRI,Costa Rica,North America,0.60%,0.07%
+125,IRL,Ireland,Europe,0.67%,0.06%
+126,MRT,Mauritania,Africa,2.68%,0.06%
+127,OMN,Oman,Asia,1.49%,0.06%
+128,PAN,Panama,North America,1.35%,0.06%
+129,KWT,Kuwait,Asia,0.97%,0.05%
+130,HRV,Croatia,Europe,-0.54%,0.05%
+131,ERI,Eritrea,Africa,1.76%,0.05%
+132,GEO,Georgia,Asia,-0.43%,0.05%
+133,MNG,Mongolia,Asia,1.44%,0.04%
+134,MDA,Moldova,Europe,4.98%,0.04%
+135,URY,Uruguay,South America,0.01%,0.04%
+136,PRI,Puerto Rico,North America,0.24%,0.04%
+137,BIH,Bosnia and Herzegovina,Europe,-0.70%,0.04%
+138,ALB,Albania,Europe,-0.35%,0.04%
+139,JAM,Jamaica,North America,-0.06%,0.04%
+140,ARM,Armenia,Asia,-0.09%,0.03%
+141,GMB,Gambia,Africa,2.48%,0.03%
+142,LTU,Lithuania,Europe,-1.15%,0.03%
+143,QAT,Qatar,Asia,0.79%,0.03%
+144,BWA,Botswana,Africa,1.71%,0.03%
+145,NAM,Namibia,Africa,1.45%,0.03%
+146,GAB,Gabon,Africa,1.99%,0.03%
+147,LSO,Lesotho,Africa,1.06%,0.03%
+148,GNB,Guinea-Bissau,Africa,2.15%,0.03%
+149,SVN,Slovenia,Europe,-0.01%,0.03%
+150,MKD,North Macedonia,Europe,-0.38%,0.03%
+151,LVA,Latvia,Europe,-1.10%,0.02%
+152,GNQ,Equatorial Guinea,Africa,2.37%,0.02%
+153,TTO,Trinidad and Tobago,North America,0.25%,0.02%
+154,BHR,Bahrain,Asia,0.90%,0.02%
+155,TLS,Timor-Leste,Asia,1.44%,0.02%
+156,EST,Estonia,Europe,-0.25%,0.02%
+157,MUS,Mauritius,Africa,0.08%,0.02%
+158,CYP,Cyprus,Europe,0.69%,0.02%
+159,SWZ,Eswatini,Africa,0.76%,0.02%
+160,DJI,Djibouti,Africa,1.39%,0.01%
+161,REU,Reunion,Africa,0.80%,0.01%
+162,FJI,Fiji,Oceania,0.71%,0.01%
+163,COM,Comoros,Africa,1.83%,0.01%
+164,GUY,Guyana,South America,0.63%,0.01%
+165,BTN,Bhutan,Asia,0.64%,0.01%
+166,SLB,Solomon Islands,Oceania,2.23%,0.01%
+167,MAC,Macau,Asia,1.29%,0.01%
+168,LUX,Luxembourg,Europe,1.11%,0.01%
+169,MNE,Montenegro,Europe,-0.10%,0.01%
+170,SUR,Suriname,South America,0.84%,0.01%
+171,CPV,Cape Verde,Africa,0.93%,0.01%
+172,ESH,Western Sahara,Africa,1.96%,0.01%
+173,MLT,Malta,Europe,0.33%,0.01%
+174,MDV,Maldives,Asia,-0.53%,0.01%
+175,BRN,Brunei,Asia,0.78%,0.01%
+176,BHS,Bahamas,North America,0.64%,0.01%
+177,BLZ,Belize,North America,1.37%,0.01%
+178,GLP,Guadeloupe,North America,0.02%,0.00%
+179,ISL,Iceland,Europe,0.65%,0.00%
+180,MTQ,Martinique,North America,-0.14%,0.00%
+181,MYT,Mayotte,Africa,3.03%,0.00%
+182,VUT,Vanuatu,Oceania,2.38%,0.00%
+183,GUF,French Guiana,South America,2.49%,0.00%
+184,PYF,French Polynesia,Oceania,0.85%,0.00%
+185,NCL,New Caledonia,Oceania,1.05%,0.00%
+186,BRB,Barbados,North America,0.13%,0.00%
+187,STP,Sao Tome and Principe,Africa,1.97%,0.00%
+188,WSM,Samoa,Oceania,1.48%,0.00%
+189,CUW,Curacao,North America,0.48%,0.00%
+190,LCA,Saint Lucia,North America,0.22%,0.00%
+191,GUM,Guam,Oceania,0.69%,0.00%
+192,KIR,Kiribati,Oceania,1.74%,0.00%
+193,GRD,Grenada,North America,0.59%,0.00%
+194,FSM,Micronesia,Oceania,0.93%,0.00%
+195,JEY,Jersey,Europe,0.92%,0.00%
+196,TON,Tonga,Oceania,0.86%,0.00%
+197,SYC,Seychelles,Africa,0.51%,0.00%
+198,ABW,Aruba,North America,-0.16%,0.00%
+199,VCT,Saint Vincent and the Grenadines,North America,-0.24%,0.00%
+200,VIR,United States Virgin Islands,North America,-0.72%,0.00%
+201,ATG,Antigua and Barbuda,North America,0.57%,0.00%
+202,IMN,Isle of Man,Europe,0.23%,0.00%
+203,AND,Andorra,Europe,0.33%,0.00%
+204,DMA,Dominica,North America,0.42%,0.00%
+205,CYM,Cayman Islands,North America,0.88%,0.00%
+206,BMU,Bermuda,North America,-0.18%,0.00%
+207,GGY,Guernsey,Europe,0.38%,0.00%
+208,GRL,Greenland,North America,0.31%,0.00%
+209,FRO,Faroe Islands,Europe,0.34%,0.00%
+210,MNP,Northern Mariana Islands,Oceania,0.49%,0.00%
+211,KNA,Saint Kitts and Nevis,North America,0.21%,0.00%
+212,TCA,Turks and Caicos Islands,North America,0.79%,0.00%
+213,SXM,Sint Maarten,North America,0.11%,0.00%
+214,ASM,American Samoa,Oceania,-0.81%,0.00%
+215,MHL,Marshall Islands,Oceania,1.03%,0.00%
+216,LIE,Liechtenstein,Europe,0.65%,0.00%
+217,MCO,Monaco,Europe,-0.47%,0.00%
+218,SMR,San Marino,Europe,-0.05%,0.00%
+219,GIB,Gibraltar,Europe,0.12%,0.00%
+220,MAF,Saint Martin,North America,0.90%,0.00%
+221,VGB,British Virgin Islands,North America,0.74%,0.00%
+222,PLW,Palau,Oceania,0.02%,0.00%
+223,COK,Cook Islands,Oceania,0.19%,0.00%
+224,AIA,Anguilla,North America,0.26%,0.00%
+225,NRU,Nauru,Oceania,0.88%,0.00%
+226,WLF,Wallis and Futuna,Oceania,-0.60%,0.00%
+227,TUV,Tuvalu,Oceania,0.74%,0.00%
+228,BLM,Saint Barthelemy,North America,0.25%,0.00%
+229,SPM,Saint Pierre and Miquelon,North America,-0.38%,0.00%
+230,MSR,Montserrat,North America,-0.09%,0.00%
+231,FLK,Falkland Islands,South America,0.29%,0.00%
+232,NIU,Niue,Oceania,0.05%,0.00%
+233,TKL,Tokelau,Oceania,1.18%,0.00%
+234,VAT,Vatican City,Europe,1.57%,0.00%
